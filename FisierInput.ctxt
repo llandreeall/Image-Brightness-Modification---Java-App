@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FisierInput
+comment1.params=
+comment1.target=java.io.File\ getInput()
+comment2.params=
+comment2.target=void\ setOutput()
+numComments=3

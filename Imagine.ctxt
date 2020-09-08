@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Imagine
+comment1.params=
+comment1.target=Imagine()
+comment10.params=fisier
+comment10.target=void\ afisare(java.lang.String)
+comment11.params=lum
+comment11.target=java.awt.image.BufferedImage\ luminozitate(int[])
+comment2.params=f
+comment2.target=void\ citire(java.io.File)
+comment3.params=img\ l\ h
+comment3.target=Imagine(java.awt.image.BufferedImage,\ int,\ int)
+comment4.params=
+comment4.target=java.awt.image.BufferedImage\ getImagine()
+comment5.params=
+comment5.target=int\ getInaltime()
+comment6.params=
+comment6.target=int\ getLatime()
+comment7.params=image1
+comment7.target=void\ setImagine(java.awt.image.BufferedImage)
+comment8.params=inalt
+comment8.target=void\ setInaltime(int)
+comment9.params=lat
+comment9.target=void\ setLatime(int)
+numComments=12

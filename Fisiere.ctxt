@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fisiere
+comment1.params=
+comment1.target=void\ setInput()
+comment2.params=
+comment2.target=java.io.File\ getAdresa_output()
+comment3.params=
+comment3.target=java.io.File\ getAdresa_input()
+comment4.params=ao
+comment4.target=void\ setAdresa_output(java.io.File)
+comment5.params=ai
+comment5.target=void\ setAdresa_input(java.io.File)
+comment6.params=
+comment6.target=void\ afisare_adresa_input()
+comment7.params=
+comment7.target=java.io.File\ getImagine()
+comment8.params=image
+comment8.target=void\ setImagine(java.io.File)
+numComments=9
