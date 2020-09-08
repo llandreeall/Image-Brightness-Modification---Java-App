@@ -1,5 +1,18 @@
 This is the final project for the course "Web Applications with Java support" that took place in the first semester of the third year in college. 
-This project changes the brightness of an image using only Java, I used BlueJ for running the app and writting code <br>
+This project changes the brightness of an image using only Java, I used BlueJ for running the app and writting code. <br>
+Project requirements: <br>
+-The input image is of type BMP - 24bit BMP - RGB;<br>
+-Only low-level code sequences are allowed;<br>
+-POO concepts: encapsulation, inheritance, polimorphism, abstractization etc. <br>
+-The source code has comments and follows all the "coding standards";<br>
+-We have to work with files ( input/output );<br>
+-Input has to be provided by keyboard through console at least once;<br>
+-Have at least three levels of inheritance;<br>
+-Use varargs;<br>
+-Have an interface and implement it;<br>
+-Have abstract classes, abstract methods and classes that implement the abstract ones;<br>
+-Have exception handling;<br>
+<br>
 Steps in execution: <br>
 -reads the folder from where the image is taken for modification;<br>
 -reads the folder where the output image will be saved;<br>
@@ -11,7 +24,7 @@ Steps in execution: <br>
 At the beginning of the app, the user can choose if the input will be introduced via keyboard or visual interface.<br>
 OOP concepts used: encapsulation, inheritance, polimorphism, abstractization, overwrite etc.<br>
 This app is made of 5 classes and one interface:<br>
--FisierInput.class - the interface with two methods about reading the input and output files.<br>
+-FisierInput.class - interface with two methods about reading the input and output files.<br>
 -FisierOutput.class - abstract class that implements the interface and overwrites its methods. 
 In this class the  setters and getters are implemented. Also it adds a new  method to get the image address.<br>
 -Fisiere.class - inherits the FisiereOutput.class and adds a new attribute: image adress. Also it overwrites the parent methods.<br>
@@ -26,4 +39,6 @@ Some screenshots:<br>
 ![image](https://user-images.githubusercontent.com/64609288/92453886-7f512900-f1c8-11ea-937a-5afe391d3923.png)
 ![image](https://user-images.githubusercontent.com/64609288/92453895-824c1980-f1c8-11ea-9232-693525abaed1.png)
 ![image](https://user-images.githubusercontent.com/64609288/92453903-86783700-f1c8-11ea-9ec8-667326724010.png)
-![image](https://user-images.githubusercontent.com/64609288/92453912-8aa45480-f1c8-11ea-9744-ad176e4732a2.png)
+![image](https://user-images.githubusercontent.com/64609288/92453912-8aa45480-f1c8-11ea-9744-ad176e4732a2.png)<br>
+
+
